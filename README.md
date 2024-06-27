@@ -75,3 +75,4 @@ The primary data source for **QuerySynth** is a folder containing Txt / pdf docu
 
 Once the application is running, open your web browser and navigate to the provided local URL (e.g., `http://localhost:32123`) to access the Mesop UI. From here, you can enter queries and receive responses based on the indexed documents.
 
+![Screenshot from 2024-06-27 15-11-02](https://github.com/Kirouane-Ayoub/QuerySynth/assets/99510125/f69b624c-22f3-4cd6-b027-f4a2a33ea147)
